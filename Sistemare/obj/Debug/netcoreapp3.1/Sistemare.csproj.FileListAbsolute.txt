@@ -1,0 +1,13 @@
+C:\Users\invit\Desktop\POO\Sistemare\bin\Debug\netcoreapp3.1\Sistemare.exe
+C:\Users\invit\Desktop\POO\Sistemare\bin\Debug\netcoreapp3.1\Sistemare.deps.json
+C:\Users\invit\Desktop\POO\Sistemare\bin\Debug\netcoreapp3.1\Sistemare.runtimeconfig.json
+C:\Users\invit\Desktop\POO\Sistemare\bin\Debug\netcoreapp3.1\Sistemare.runtimeconfig.dev.json
+C:\Users\invit\Desktop\POO\Sistemare\bin\Debug\netcoreapp3.1\Sistemare.dll
+C:\Users\invit\Desktop\POO\Sistemare\bin\Debug\netcoreapp3.1\Sistemare.pdb
+C:\Users\invit\Desktop\POO\Sistemare\obj\Debug\netcoreapp3.1\Sistemare.csprojAssemblyReference.cache
+C:\Users\invit\Desktop\POO\Sistemare\obj\Debug\netcoreapp3.1\Sistemare.AssemblyInfoInputs.cache
+C:\Users\invit\Desktop\POO\Sistemare\obj\Debug\netcoreapp3.1\Sistemare.AssemblyInfo.cs
+C:\Users\invit\Desktop\POO\Sistemare\obj\Debug\netcoreapp3.1\Sistemare.csproj.CoreCompileInputs.cache
+C:\Users\invit\Desktop\POO\Sistemare\obj\Debug\netcoreapp3.1\Sistemare.dll
+C:\Users\invit\Desktop\POO\Sistemare\obj\Debug\netcoreapp3.1\Sistemare.pdb
+C:\Users\invit\Desktop\POO\Sistemare\obj\Debug\netcoreapp3.1\Sistemare.genruntimeconfig.cache
